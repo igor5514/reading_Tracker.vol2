@@ -1,4 +1,4 @@
-# CP1404 Assignment 2: Reading Tracker 2.0 by YOURNAME
+#  Reading Tracker 2.0 by Kenzin Igor
 
 _Edit this README, replacing this line and above with your own assignment details._  
 _At the end of the project, complete the project reflection below by answering the questions (replace the ... parts)._
